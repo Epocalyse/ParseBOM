@@ -1,0 +1,10 @@
+,MaterialType,CultivationName,SupplierCatalogueNumber,ERPnumber,ERPInventoryControl,LIMSSpec,BOM
+2,Broth,TSB Broth,44011,A0000329.UK,Y,Y,N/A
+3,Broth,THIO Broth,44001,A0000328.UK,Y,Y,N/A
+4,Water,Sterile Distilled Water,15230071,100000774.100ML,Y,Y,N/A
+5,Positive Control,Candida Albicans 10231,Q1503C,A0000758.UK,Y,N,N/A
+6,Positive Control,Aspergillus  16404,Q1100C,A0000756.UK,Y,N,N/A
+7,Positive Control,Staph Aureus 6538,Q7016C,A0000762.UK,Y,N,N/A
+8,Positive Control,Bacillus Subtilis 6633,Q1221C,A0000757.UK,Y,N,N/A
+9,Positive Control,P Aeruginosa 9027,Q5210C,A0000761.UK,Y,N,N/A
+10,Positive Control,C Sporogenes,Q1700C,A0000759.UK,Y,N,N/A

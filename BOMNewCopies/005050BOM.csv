@@ -1,0 +1,22 @@
+,MaterialType,CultivationName,SupplierCatalogueNumber,ERPnumber,ERPInventoryControl,LIMSSpec,BOM
+2,Raw Material,SPF Chicken Eggs,SPF Premium Plus Eggs,100001722,Y,Y,N/A
+3,Raw Material,Terumo 1ml Syringes,SYR6200,A0000029,Y,Y,N/A
+4,Raw Material,Terumo 5ml Syringes,SYR6204,A0000031,Y,Y,N/A
+5,Raw Material,Terumo 2ml Syringes,SYR6202,A0000030,Y,Y,N/A
+6,Raw Material,DMEM,31885-023,100000647.500ml,Y,Y,N/A
+7,Raw Material,PBS (500ml),14040-091,100000718.500ml,Y,Y,N/A
+8,Raw Material,Pen Strep,15140-122,100000777.100ml,Y,Y,N/A
+9,Raw Material,"Needles (23G, 31mm)",SYR6246,,Y,Y,N/A
+10,Raw Material,"Needles (20G, 25mm)",SYR6230,,Y,Y,N/A
+11,Raw Material,"Needles (21G, 50mm)",SYR6240,,Y,Y,N/A
+12,Raw Material,"Needles (25G, 25mm)",SYR6247,,Y,Y,N/A
+13,Raw Material,"Needles (26G, 9mm)",SYR6120,,Y,Y,N/A
+14,Raw Material,96 well HA Plates,163320,A0000014,Y,Y,N/A
+15,Raw Material,Cryovials,368632,A0000021,Y,Y,N/A
+16,Raw Material,200ul non-sterile tips,SLS5040,A0000003,Y,Y,N/A
+17,Raw Material,1000ul non-sterile tips,GNT-1000- 960,A0000004,Y,Y,N/A
+18,Raw Material,200ul sterile tips,TF-200-R-S,A0000100.96PK,Y,Y,N/A
+19,Raw Material,1000ul sterile tips,TF-1000-R-S,A0000005.100PK,Y,Y,N/A
+20,Raw Material,Sterile 15ml tubes,570086-1,100004472.50PK,Y,Y,N/A
+21,Raw Material,Sterile 50ml tubes,BRS037,A0000002.25PK,Y,Y,N/A
+22,Erythrocyte,Human Blood,Z416,A0000096,Y,Y,N/A

@@ -1,0 +1,26 @@
+,MaterialType,CultivationName,SupplierCatalogueNumber,ERPnumber,ERPInventoryControl,LIMSSpec,BOM
+2,Negative Control DNA,200 ng/µl Human Placental DNA,"CA-972-M
+CA-972-F",A0000363.UK,Y,N,BR-MOL-HPDNA
+3,"Primer (serotypes 1-4, 6-13)",AAVF5,N/A,N/A,N,Y,KPBT6377*
+4,"Primer (serotypes 1-4, 6-13)",AAVR2,N/A,N/A,N,Y,KPBT6377*
+5,"Probe (serotypes 1-4, 6-13)",AAVMGB3,N/A,N/A,N,Y,KPBT6377*
+6,"DNA (serotypes 1-4, 6-13)",AAV +ve3 DNA oligonucleotide,N/A,N/A,N,Y,KPBT6440**
+7,PCR master mix ,Eurogentec QPCR kit,RT-QP2X-03,100004081.UK,Y,Y,N
+8,Primer (serotype 5),90222F,N/A,N/A,N,Y,KPBT6377*
+9,Primer (serotype 5),90222R,N/A,N/A,N,Y,KPBT6377*
+10,Probe (serotype 5),90222FAM-MGB,N/A,N/A,N,Y,KPBT6377*
+11,DNA (serotype 5),90222,N/A,N/A,N,Y,KPBT6440**
+12,PCR mastermix,"Quanta PerfeCTa qPCR SuperMix, ROX",4387424M,100007355.UK,Y,Y,N
+13,Solvent,Ethanol,"101074F
+15338
+283047K","A0000104
+A0001860.UK",Y,N,N
+14,Extraction Kit 1,QIAsymphony DNA Kit,931236,100007709.KIT,Y,Y,N
+15,Extraction Kit 1,QIAsymphony Certal Vaccine NA Kit,931955,100007859.KIT,Y,Y,N
+16,Extraction Kit 1,QIAAMP DNA Mini Kit,51304,A0001640.UK,Y,Y,N
+17,Extraction Kit 1,QIAAMP Viral RNA Mini Kit1,52904,A0001641.UK,Y,Y,N
+18,Extraction Kit 1,QIAAMP DNA Mini QIAcube kit,51326,100007449.KIT,Y,Y,N
+19,PBS,Phosphate Buffered Saline (PBS) 1x,"14040-083
+14040091","100000856.100ml
+100000718.500ml",Y,Y,N
+20,Water,Nuclease Free Water,P1193,A0000551.50ML,Y,Y,N

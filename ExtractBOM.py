@@ -26,6 +26,7 @@ class ExtractBOM:
 
     def convertDocx(self, doc, loc):
         self.moveDocs(doc, loc + "/", loc + "/", "GMP.doc")
+        return self.renameBOM(doc) + "GMP.docx"
 
     @staticmethod
     def save_as_docx(doc, loc):

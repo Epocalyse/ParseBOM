@@ -1,0 +1,19 @@
+,MaterialType,CultivationName,SupplierCatalogueNumber,ERPnumber,ERPInventoryControl,LIMSSpec,BOM
+2,Cleaning agent,70% isopropanol,Ecolab 3035300,A0000159.1L,Y,Y,N/A
+3,Cleaning agent,Virkon,"SLS
+BRS019/CLE1554",A0000055.5KG,Y,Y,KPBT0286 Form A
+4,Cleaning agent,Biocide B,Ecolab 3036190,A0000157.1L,Y,Y,N/A
+5,Immunochemical,SKY paint kit for Human Chromosomes,SKY000028,100007208.,Y,Y,N
+6,Immunochemical,SKY paint kit for Mouse Chromosomes,SKY000030,100007209.,Y,Y,N
+7,Immunochemical,SKY paint kit for Rat Chromosomes,SKY000174,100007210.,Y,Y,N
+8,Reagent,Methanol,"Fisher Scientific
+M/4000/17","A0000095.2,5L",Y,Y,N
+9,Reagent,Glacial acetic acid,"Sigma Aldrich
+A6283.100ML",A0000121.100ML,Y,Y,N
+10,Buffer,Gurr’s buffer pH6.8,VWR 331932D,100004304.50PK,Y,Y,N
+11,Stain,Giemsa,Gibco 10092-013,100003691.100ML,Y,Y,N
+12,Fixative,Cytoclear,Genial Genetics (GGS) JL004,100004343.1ML,Y,Y,N
+13,Reagent,Karyomax 0.075M KCl,Invitrogen 10575090,100004329.CS,Y,Y,N
+14,Enzyme,0.05% Trypsin-EDTA,"Invitrogen
+25300-062",A25300062.500ML,Y,Y,N
+15,Reagent,DPX,TAAB M192,100004159.500ML,Y,Y,N

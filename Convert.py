@@ -41,46 +41,35 @@ class Convert:
 
     @staticmethod
     def sopDocToCSV(doc, loc):
-        cells = ['UK SKU', 'SG SKU', 'SKU', 'Supplier']
+        docu = docx.Document(loc + '/' + doc)
+        cells = ['UK SKU', 'SG SKU', 'Supplier']
         equipment_data = []
         bom_data = []
         record_equipment = False
         record_material = False
         record_reagent = False
 
-        for para in doc.paragraphs:
+        for para in docu.paragraphs:
             if para.text == 'PROCEDURE':
                 break
             elif para.text == 'Critical reagents' or record_reagent:
                 record_reagent = True
+                text = re.split(', |\(|\)', para.text)
+                # cleanText = [text[0]]
+                # cleanText.extend(word for word in text if any(map(word.__contains__, cells)))
 
-                text = re.split(', |\(', para.text)
-                clean_text = [text[0]]
-                clean_text.extend(word for word in text if any(map(word.__contains__, cells)))
-
-                clean_entry = [text[0]]
-                for tex in text:
-                    for cell in cells:
+                clean_entry = [text[0].strip(), "", "", ""]
+                for cell in cells:
+                    for tex in text:
                         if any(map(tex.__contains__, cells)):
                             if tex.__contains__("UK SKU"):
-                                clean_entry.append(re.split('UK SKU |\)', tex)[1])
+                                clean_entry[1] = re.split('UK SKU', tex)[1].strip()
                             if tex.__contains__("SG SKU"):
-                                # print(re.split('SG SKU:|\s', text)[1])
-                                clean_entry.append(re.split('SG SKU:|\s', tex)[1])
-                            if tex.__contains__("SKU"):
-                                pass
-                                # cleanEntry.extend(text)
+                                clean_entry[2] = re.split('SG SKU:|\s', tex)[1].strip()
                             if tex.__contains__("Supplier"):
-                                pass
-                                # cleanEntry.extend(text)
-                        else:
-                            # Currently having issues
-                            clean_entry.append("")
-                # print("AAAAAAAAAAAAAAAAAAA_________________")
-                # print(cleanEntry)
-                # print(cleanText)
+                                clean_entry[3] = re.split('Supplier |\s', tex)[1].strip()
 
-                row_data = tuple(clean_text)
+                row_data = tuple(clean_entry)
                 bom_data.append(row_data)
             elif para.text == 'Equipment':
                 record_equipment = True
@@ -93,12 +82,10 @@ class Convert:
         ef = pd.DataFrame(equipment_data)
         df = pd.DataFrame(bom_data)
 
-        # df = df.iloc[1:]
-        # df.columns = ['MaterialType', 'UKSKU', 'SGSKU']
+        df = df.iloc[1:]
+        df.columns = ['MaterialType', 'UKSKU', 'SGSKU', 'Supplier']
 
-        ef.to_csv('BOMNewCopies/BPBT3107_Equipment.csv', mode='w', header=False)
-        df.to_csv('BOMNewCopies/BPBT3107_BOM.csv', mode='w', header=False)
+        extract = ExtractBOM()
+        ef.to_csv('BOMNewCopies/' + extract.renameBOM(doc) + '_Equipment.csv', mode='w', header=False)
+        df.to_csv('BOMNewCopies/' + extract.renameBOM(doc) + '_BOM.csv', mode='w', header=True)
 
-
-# conv = Convert()
-# conv.bomDocToCSV('102024GMP.docx', 'BOMWordCopies')

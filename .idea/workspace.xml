@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd5c9c4c-09d9-4b71-a45b-02ee20389740" name="Default Changelist" comment="" />
+    <list default="true" id="dd5c9c4c-09d9-4b71-a45b-02ee20389740" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/003805GMP.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/BPBT3107_BOM.csv" beforeDir="false" afterPath="$PROJECT_DIR$/BOMNewCopies/BPBT3107_BOM.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/003939GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/102024GMP.docx" beforeDir="false" afterPath="$PROJECT_DIR$/BOMWordCopies/102024GMP.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/305726GMP.docx" beforeDir="false" afterPath="$PROJECT_DIR$/BOMWordCopies/305726GMP.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/510635GMP.docx" beforeDir="false" afterPath="$PROJECT_DIR$/BOMWordCopies/510635GMP.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/510636GMP.docx" beforeDir="false" afterPath="$PROJECT_DIR$/BOMWordCopies/510636GMP.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convert.py" beforeDir="false" afterPath="$PROJECT_DIR$/Convert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractBOM.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractBOM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOPDocToCSV.py" beforeDir="false" afterPath="$PROJECT_DIR$/SOPDocToCSV.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOPWordCopies/3107003SOP.GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docxconv.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,9 +31,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ParseBOMSOP" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hoXIz1PQykWDzKfzLx1zyBn2rh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -179,9 +196,9 @@
       <list>
         <item itemvalue="Python.Main" />
         <item itemvalue="Python.Convert (1)" />
+        <item itemvalue="Python.SOPDocToCSV" />
         <item itemvalue="Python.ExtractBOM (1)" />
         <item itemvalue="Python.docxconv" />
-        <item itemvalue="Python.SOPDocToCSV" />
       </list>
     </recent_temporary>
   </component>
@@ -207,26 +224,26 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="540" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1601384180837" />
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1601462331987">
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1601474522257">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1515" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1280.689@0.0.1536.834" timestamp="1600970593939" />
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1601462331987" />
-    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1601462331987">
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1601474522257" />
+    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1601474522256">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1515" height="265" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1280.689@0.0.1536.834" timestamp="1600970593939" />
-    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1601462331987" />
-    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1601462331987">
+    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1601474522256" />
+    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1601474522256">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1515" height="265" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1280.689@0.0.1536.834" timestamp="1600970593939" />
-    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1601462331987" />
-    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1601462331987">
+    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1601474522256" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1601474522257">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1515" height="265" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1280.689@0.0.1536.834" timestamp="1600970593939" />
-    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1601462331987" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1601474522257" />
     <state width="1515" height="265" key="GridCell.Tab.1.bottom" timestamp="1601376360750">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -255,9 +272,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="467" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1601459772469" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1600770740504">
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1601471370357">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1600770740504" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1601471370357" />
   </component>
 </project>
