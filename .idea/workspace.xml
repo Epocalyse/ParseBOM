@@ -2,21 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd5c9c4c-09d9-4b71-a45b-02ee20389740" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003805GMP.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/BPBT3107_BOM.csv" beforeDir="false" afterPath="$PROJECT_DIR$/BOMNewCopies/BPBT3107_BOM.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/003939GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/0033970BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/003805BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/005050BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/005051BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/005070BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/005071BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/013009BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/0130133708401300537083BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/0200001BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/032930BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/104022BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/104023889BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/104885BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/106602BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/106603BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/106631BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/106802BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/107021BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/107026BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/107439BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/108601BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/300100BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/300116BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/305726BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/375433BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/377BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/510635636BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/BPBT3107_BOM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMNewCopies/BPBT3107_Equipment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/0033970GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/003805GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/005050GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/005051GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/005070GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/005071GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/013009GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/0130133708401300537083GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/0200001GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/032930GMP.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/BOMWordCopies/102024GMP.docx" beforeDir="false" afterPath="$PROJECT_DIR$/BOMWordCopies/102024GMP.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/104022GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/104023889GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/104885GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/106602GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/106603GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/106631GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/106802GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/107021GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/107026GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/107325GMP.docx" beforeDir="false" afterPath="$PROJECT_DIR$/BOMWordCopies/107325GMP.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/107439GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/108601GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/300100GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/300116GMP.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/BOMWordCopies/305726GMP.docx" beforeDir="false" afterPath="$PROJECT_DIR$/BOMWordCopies/305726GMP.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/360195GMP.docx" beforeDir="false" afterPath="$PROJECT_DIR$/BOMWordCopies/360195GMP.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/375433GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/377GMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOMWordCopies/510635636GMP.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/BOMWordCopies/510635GMP.docx" beforeDir="false" afterPath="$PROJECT_DIR$/BOMWordCopies/510635GMP.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BOMWordCopies/510636GMP.docx" beforeDir="false" afterPath="$PROJECT_DIR$/BOMWordCopies/510636GMP.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Convert.py" beforeDir="false" afterPath="$PROJECT_DIR$/Convert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExtractBOM.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractBOM.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPDocToCSV.py" beforeDir="false" afterPath="$PROJECT_DIR$/SOPDocToCSV.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPWordCopies/3107003SOP.GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docxconv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOPWordCopies/3107003GMP.docx" beforeDir="false" afterPath="$PROJECT_DIR$/SOPWordCopies/3107003GMP.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,11 +233,11 @@
     </configuration>
     <list>
       <item itemvalue="Compound.Unnamed" />
+      <item itemvalue="Python.Convert (1)" />
+      <item itemvalue="Python.ExtractBOM (1)" />
+      <item itemvalue="Python.Main" />
       <item itemvalue="Python.Rename" />
       <item itemvalue="Python.SOPDocToCSV" />
-      <item itemvalue="Python.Main" />
-      <item itemvalue="Python.ExtractBOM (1)" />
-      <item itemvalue="Python.Convert (1)" />
       <item itemvalue="Python.docxconv" />
     </list>
     <recent_temporary>
@@ -224,26 +272,26 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="540" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1601384180837" />
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1601474522257">
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1601481911090">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1515" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1280.689@0.0.1536.834" timestamp="1600970593939" />
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1601474522257" />
-    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1601474522256">
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1601481911090" />
+    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1601481911090">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1515" height="265" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1280.689@0.0.1536.834" timestamp="1600970593939" />
-    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1601474522256" />
-    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1601474522256">
+    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1601481911090" />
+    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1601481911090">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1515" height="265" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1280.689@0.0.1536.834" timestamp="1600970593939" />
-    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1601474522256" />
-    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1601474522257">
+    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1601481911090" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1601481911090">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1515" height="265" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1280.689@0.0.1536.834" timestamp="1600970593939" />
-    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1601474522257" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1601481911090" />
     <state width="1515" height="265" key="GridCell.Tab.1.bottom" timestamp="1601376360750">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -268,10 +316,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="279" y="60" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1600678888788" />
-    <state x="467" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1601459772469">
+    <state x="467" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1601631276620">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="467" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1601459772469" />
+    <state x="467" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1601631276620" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1601471370357">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
