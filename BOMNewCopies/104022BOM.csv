@@ -1,0 +1,36 @@
+,MaterialType,CultivationName,SupplierCatalogueNumber,ERPnumber,ERPInventoryControl,LIMSSpec,BOM,Assay
+2,Buffer,Denaturation Buffer,4390295,100000677.,Y,N,N,104022GMP.BUK
+3,Buffer,Neutralisation Buffer,04390-293,100001285.,Y,N,N,104022GMP.BUK
+4,Buffer,20 x SSC,15557-036,100004829.4L,Y,N,N,104022GMP.BUK
+5,Buffer,1 x TAE,4390291,100000678.,Y,N,N,104022GMP.BUK
+6,Buffer,10x Blue Juice loading buffer,10816015,100000721.3 x 1ml,Y,N,N,104022GMP.BUK
+7,Buffer,X-ray developer,RGD,A0000089.5L,Y,N,N,104022GMP.BUK
+8,Buffer,X-ray fixer,5518,A0000090.5L,Y,N,N,104022GMP.BUK
+9,Buffer,TE pH8.0,V6231,A0000554.100ml,Y,N,N,104022GMP.BUK
+10,Reagent,Ethidium Bromide,15585-011,100001261.,Y,N,N,104022GMP.BUK
+11,Reagent,Ethanol,15338,A0000104.2’5L,Y,N,N,104022GMP.BUK
+12,Reagent,Deoxycytidine 5' Triphosphate (DcTP) (32P),NEG013H250UC,100004446.,Y,N,N,104022GMP.BUK
+13,Reagent,Isopropanol,20842.323,A0000081.2’5L,Y,N,N,104022GMP.BUK
+14,Reagent,Low Mass DNA ladder,10068-013,100000716.200UL,Y,N,N,104022GMP.BUK
+15,Reagent,High Mass DNA ladder,10496-016,100000713.200UL,Y,N,N,104022GMP.BUK
+16,Reagent,1KB ladder,"15615-016
+",100001265.250UG,Y,N,N,104022GMP.BUK
+17,Reagent,Agarose,16500-500,100001257.500G,Y,N,N,104022GMP.BUK
+18,Reagent,Nuclease free Water,P1193,A0000551.50ml,Y,N,N,104022GMP.BUK
+19,Reagent,dNTPS,N808-0007,A0000294.10mm 1 SET,Y,N,N,104022GMP.BUK
+20,Kit,Taq DNA polymerase Kit,201203,100004882.250U,Y,N,N,104022GMP.BUK
+21,Kit,Random prime kit,11004760001,100004665.KIT,Y,N,N,104022GMP.BUK
+22,Kit,High Pure PCR product purification Kit,11732668001,100004425.EA,Y,N,N,104022GMP.BUK
+23,Kit,Nick columns,17085502,A0000226.UK,Y,N,N,104022GMP.BUK
+24,Restriction Endonucleases,Various depending on individual client specifications.,N/A,N/A,N,N,N,104022GMP.BUK
+25,Primers,Custom depending on individual client specifications,N/A,N/A,N,N,N,104022GMP.BUK
+26,Probe,Custom depending on individual client specifications,N/A,N/A,N,N,N,104022GMP.BUK
+27,Buffer,0.25M HCL,N/A,N/A,N,N,RP#140,104022GMP.BUK
+28,Buffer,2xSSC,N/A,N/A,N,N,RP#203,104022GMP.BUK
+29,Buffer,Hybridisation buffer,N/A,N/A,N,N,RP#045,104022GMP.BUK
+30,Buffer,0.1xSSC/0.1%SDS,N/A,N/A,N,N,RP#218,104022GMP.BUK
+31,Buffer,2xSSC/0.1%SDS,N/A,N/A,N,N,RP#046,104022GMP.BUK
+32,Reagent,Salmon sperm DNA,N/A,N/A,N,N,RP#050,104022GMP.BUK
+33,Reagent,5%TCA/1%NaPPO4,N/A,N/A,N,N,RP#19,104022GMP.BUK
+34,Reagent,70% Ethanol,N/A,N/A,N,N,RP#149,104022GMP.BUK
+35,Reagent,10M Ammonium acetate,N/A,N/A,N,N,RP#67,104022GMP.BUK

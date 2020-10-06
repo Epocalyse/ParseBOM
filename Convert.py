@@ -30,13 +30,17 @@ class Convert:
 
         df = pd.DataFrame(data)
 
-        # Removing first two rows
-        df = df.iloc[2:]
+        # Removing first row
+        if bool(re.search('^Assay', df.at[0, 0])):
+            df = df.iloc[2:]
+        else:
+            df = df.iloc[1:]
         # Appending header names
         df.columns = ['MaterialType', 'CultivationName', 'SupplierCatalogueNumber', 'ERPnumber', 'ERPInventoryControl',
                       'LIMSSpec', 'BOM']
 
         extraction = ExtractBOM()
+        df['Assay'] = extraction.renameBOM(doc) + "GMP.BUK"
         df.to_csv('BOMNewCopies/' + extraction.renameBOM(doc) + "BOM.csv", mode='w', header=True)
 
     @staticmethod
@@ -86,6 +90,5 @@ class Convert:
         df.columns = ['MaterialType', 'UKSKU', 'SGSKU', 'Supplier']
 
         extract = ExtractBOM()
-        ef.to_csv('BOMNewCopies/' + extract.renameBOM(doc) + '_Equipment.csv', mode='w', header=False)
-        df.to_csv('BOMNewCopies/' + extract.renameBOM(doc) + '_BOM.csv', mode='w', header=True)
-
+        ef.to_csv('BOMNewCopies/FromSOP' + extract.renameBOM(doc) + '_Equipment.csv', mode='w', header=False)
+        df.to_csv('BOMNewCopies/FromSOP' + extract.renameBOM(doc) + '_BOM.csv', mode='w', header=True)

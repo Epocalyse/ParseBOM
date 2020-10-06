@@ -1,5 +1,6 @@
-,MaterialType,CultivationName,SupplierCatalogueNumber,ERPnumber,ERPInventoryControl,LIMSSpec,BOM
+,MaterialType,CultivationName,SupplierCatalogueNumber,ERPnumber,ERPInventoryControl,LIMSSpec,BOM,Assay
+1,Material type,Name, , ,Y/N,Y/N,Y/N,360195GMP.BUK
 2,Test Kit,Kinetic QCL Test Kit,50-650U,"Top of Form
 A0000367
 Bottom of Form
-",Y,N,Y00000
+",Y,N,Y00000,360195GMP.BUK

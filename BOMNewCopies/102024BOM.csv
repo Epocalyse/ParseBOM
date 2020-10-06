@@ -1,12 +1,13 @@
-,MaterialType,CultivationName,SupplierCatalogueNumber,ERPnumber,ERPInventoryControl,LIMSSpec,BOM
-2,InHouse Media,G - Broth,KPBT6337,100000334.,N,Y,Y
-3,InHouse Media,G - Agar,KPBT6337,100000363.,N,Y,Y
-4,InHouse Media,A- Agar,BPBT1712,100000362.,N,Y,Y
-5,InHouse Media,Diluent Broth,BPBT1710,100000337,N,Y,Y
-6,Mycoplasma - Positive Control,M Orale 29802 Working,ATCC 29082,A0002028.WMB,Y,Y,Y
-7,Mycoplasma - Positive Control,M Pneumoniae 29085 Working,ATCC 29085,A0002027.WMB,Y,Y,Y
-8,Mycoplasma - Positive Control,A Laidlawii 23206 Working,ATCC 23206,A0002024.WMB,Y,Y,Y
-9,Mycoplasma – Positive Control,M Pneumoniae 15531 Working,ATCC 15331,A0002020.WMB,Y,Y,Y
-10,Mycoplasma – Positive Control,M Oracle 23714 Working,ATCC 23714,A0002025.WMB,Y,Y,Y
-11,Mycoplasma – Positive Control,M Fermentans 19989 Working,ATCC 19989,100004651.WMB,Y,Y,Y
-12,Base Media,DMEM ABF,41965-039,100000705,Y,Y,N/A
+,MaterialType,CultivationName,SupplierCatalogueNumber,ERPnumber,ERPInventoryControl,LIMSSpec,BOM,Assay
+1,Material type,Name,, ,Y/N,Y/N,Y/N,102024GMP.BUK
+2,InHouse Media,G - Broth,KPBT6337,100000334.,N,Y,Y,102024GMP.BUK
+3,InHouse Media,G - Agar,KPBT6337,100000363.,N,Y,Y,102024GMP.BUK
+4,InHouse Media,A- Agar,BPBT1712,100000362.,N,Y,Y,102024GMP.BUK
+5,InHouse Media,Diluent Broth,BPBT1710,100000337,N,Y,Y,102024GMP.BUK
+6,Mycoplasma - Positive Control,M Orale 29802 Working,ATCC 29082,A0002028.WMB,Y,Y,Y,102024GMP.BUK
+7,Mycoplasma - Positive Control,M Pneumoniae 29085 Working,ATCC 29085,A0002027.WMB,Y,Y,Y,102024GMP.BUK
+8,Mycoplasma - Positive Control,A Laidlawii 23206 Working,ATCC 23206,A0002024.WMB,Y,Y,Y,102024GMP.BUK
+9,Mycoplasma – Positive Control,M Pneumoniae 15531 Working,ATCC 15331,A0002020.WMB,Y,Y,Y,102024GMP.BUK
+10,Mycoplasma – Positive Control,M Oracle 23714 Working,ATCC 23714,A0002025.WMB,Y,Y,Y,102024GMP.BUK
+11,Mycoplasma – Positive Control,M Fermentans 19989 Working,ATCC 19989,100004651.WMB,Y,Y,Y,102024GMP.BUK
+12,Base Media,DMEM ABF,41965-039,100000705,Y,Y,N/A,102024GMP.BUK

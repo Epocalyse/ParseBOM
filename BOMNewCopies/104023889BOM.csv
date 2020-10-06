@@ -1,0 +1,42 @@
+,MaterialType,CultivationName,SupplierCatalogueNumber,ERPnumber,ERPInventoryControl,LIMSSpec,BOM,Assay
+2,Restriction Endonucleases,Hinf I,R0155S,100007300.UK,Y,N,N,104023889GMP.BUK
+3,Reagent,CDP star,120175,A0000299.100ML,Y,N,N,104023889GMP.BUK
+4,Buffer,Denaturation Buffer,N1531-1L,100009143.UK,Y,N,N,104023889GMP.BUK
+5,Buffer,Neutralisation Buffer,04390-293,100001285.UK,Y,N,PROC-BREL_UK-OP-047162,104023889GMP.BUK
+6,Buffer,20 x SSC,15557-036,100004829.4L,Y,N,N,104023889GMP.BUK
+7,Buffer,1 x TAE,4390291,100000678.UK,Y,Y,N,104023889GMP.BUK
+8,Buffer,1 x TBE,043-90296,100000646.UK,Y,Y,N,104023889GMP.BUK
+9,Reagent,Ethidium Bromide,15585-011,100001261.UK,Y,Y,N,104023889GMP.BUK
+10,Buffer,10x Blue Juice loading buffer,10816015,100000721.3x1ML,Y,N,N,104023889GMP.BUK
+11,Buffer,X-ray developer,RGD,A0000089.5L,Y,N,N,104023889GMP.BUK
+12,Buffer,X-ray fixer,5518,A0000090.5L,Y,N,N,104023889GMP.BUK
+13,Buffer,0.25M HCl,N/A,N/A,N,N,PROC-BREL_UK-OP-047162,104023889GMP.BUK
+14,Buffer,NICE Pre-hybridisation buffer      ,N/A,N/A,N,N,PROC-BREL_UK-OP-047162,104023889GMP.BUK
+15,Buffer,NICE wash 1,N/A,N/A,N,N,PROC-BREL_UK-OP-047162,104023889GMP.BUK
+16,Buffer,NICE wash 2,N/A,N/A,N,N,PROC-BREL_UK-OP-047162,104023889GMP.BUK
+17,Buffer,NICE hybridsation buffer,N/A,N/A,N,N,PROC-BREL_UK-OP-047162,104023889GMP.BUK
+18,Buffer,CDP star assay buffer,N/A,N/A,N,N,PROC-BREL_UK-OP-047162,104023889GMP.BUK
+19,Buffer,1 x SSC,N/A,N/A,N,N,PROC-BREL_UK-OP-047162,104023889GMP.BUK
+20,Buffer,Spermidine,N/A,N/A,N,N,PROC-BREL_UK-OP-047162,104023889GMP.BUK
+21,Probe,AP-conjugated MLP 33.15,N/A,N/A,N,N,N,104023889GMP.BUK
+22,Chemical,Trizma base,T1503,100001345,Y,N,N,104023889GMP.BUK
+23,Chemical,Trizma hydrochloride,T3253,100007854,Y,N,N,104023889GMP.BUK
+24,Chemical,Sodium chloride,S3014,100004421,Y,N,N,104023889GMP.BUK
+25,Lab supplies,Hyperfilm,28906848,A0000086.25PK,Y,N,N,104023889GMP.BUK
+26,Reagent,Agarose,15510-027,100005038,Y,N,N,104023889GMP.BUK
+27,Lab supplies,Hybond-N+ Membrane,RPN303B,A0000245.UK,Y,N,N,104023889GMP.BUK
+28,Lab supplies,3MM Chromatography paper,3030-917,A0000141,Y,N,N,104023889GMP.BUK
+29,"Assay
+104889GMP
+104023GMP",DNA Fingerprinting of Cell lines (incl with a single multi-locus probe),Inventory Control,Inventory Control,Inventory Control,Inventory Control,Inventory Control,104023889GMP.BUK
+30,"Assay
+104889GMP
+104023GMP",DNA Fingerprinting of Cell lines (incl with a single multi-locus probe),Supplier Catalogue Number,Oracle Part Number,Inventory Control,"Release
+Specification","In House/ secondary
+BOM",104023889GMP.BUK
+31,Material type,Name,Supplier Catalogue Number,Oracle Part Number,Y/N,Y/N,Y/N,104023889GMP.BUK
+32,Ladder,1kb+ DNA ladder,10787018,100007375,Y,N,N,104023889GMP.BUK
+33,Chemical,Sodium dodecyl sulfate (SDS),L4390-500G,100004580.500G,Y,N,N,104023889GMP.BUK
+34,Reagent,20% Sodium dodecyl sulfate (SDS),N/A,N/A,N,N,PROC-BREL_UK-OP-047162,104023889GMP.BUK
+35,Reagent,1% Sodium dodecyl sulfate (SDS),N/A,N/A,N,N,PROC-BREL_UK-OP-047162,104023889GMP.BUK
+36,Reagent,2 x SSC,N/A,N/A,N,N,PROC-BREL_UK-OP-047162,104023889GMP.BUK
