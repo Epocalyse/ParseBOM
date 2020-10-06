@@ -3,76 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="dd5c9c4c-09d9-4b71-a45b-02ee20389740" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/0033970BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/003805BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/003939BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/005050BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/005051BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/005070BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/005071BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/013009BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/0130133708401300537083BOM.csv" beforeDir="false" afterPath="$PROJECT_DIR$/BOMNewCopies/0130133708401300537083BOM.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/0200001BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/032930BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/102024BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/104022BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/104023889BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/104885BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/106602BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/106603BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/106631BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/106802BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/107021BOM.csv" beforeDir="false" afterPath="$PROJECT_DIR$/BOMNewCopies/107021BOM.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/107026BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/107325BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/107439BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/108601BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/300100BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/300116BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/305726BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/360195BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/375433BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/377BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/510635636BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/510635BOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMNewCopies/510636BOM.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/BOMNewCopies/combined_BOMs.csv" beforeDir="false" afterPath="$PROJECT_DIR$/BOMNewCopies/combined_BOMs.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/0033970GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/003805GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/003939GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/005050GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/005051GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/005070GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/005071GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/013009GMP.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/BOMWordCopies/0130133708401300537083GMP.docx" beforeDir="false" afterPath="$PROJECT_DIR$/BOMWordCopies/0130133708401300537083GMP.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/0200001GMP.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/0200001GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/032930GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/102024GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/104022GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/104023889GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/104885GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/106602GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/106603GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/106631GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/106802GMP.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/BOMWordCopies/107021GMP.docx" beforeDir="false" afterPath="$PROJECT_DIR$/BOMWordCopies/107021GMP.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/107026GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/107325GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/107439GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/108601GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/300100GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/300116GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/305726GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/360195GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/375433GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/377GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/510635636GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/510635GMP.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOMWordCopies/510636GMP.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Convert.py" beforeDir="false" afterPath="$PROJECT_DIR$/Convert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -296,26 +230,26 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="395" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1601631588429" />
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1601994966826">
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1601997265878">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1515" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1280.689@0.0.1536.834" timestamp="1600970593939" />
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1601994966826" />
-    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1601994966826">
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1601997265878" />
+    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1601997265877">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1515" height="265" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1280.689@0.0.1536.834" timestamp="1600970593939" />
-    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1601994966826" />
-    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1601994966826">
+    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1601997265877" />
+    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1601997265877">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1515" height="265" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1280.689@0.0.1536.834" timestamp="1600970593939" />
-    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1601994966826" />
-    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1601994966826">
+    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1601997265877" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1601997265877">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1515" height="265" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1280.689@0.0.1536.834" timestamp="1600970593939" />
-    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1601994966826" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1601997265877" />
     <state width="1515" height="265" key="GridCell.Tab.1.bottom" timestamp="1601376360750">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -336,14 +270,14 @@
     </state>
     <state width="1515" height="265" key="GridCell.Tab.1.right/0.0.1536.834/3840.0.1280.689@0.0.1536.834" timestamp="1600970593939" />
     <state width="1515" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1601376360750" />
-    <state x="279" y="60" key="SettingsEditor" timestamp="1600678888788">
+    <state x="279" y="60" key="SettingsEditor" timestamp="1601995319342">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="279" y="60" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1600678888788" />
-    <state x="467" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1601979153656">
+    <state x="279" y="60" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1601995319342" />
+    <state x="467" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1601995304882">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="467" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1601979153656" />
+    <state x="467" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1601995304882" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1601471370357">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

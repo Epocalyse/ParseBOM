@@ -26,14 +26,14 @@ class Convert:
 
             # Construct a tuple for row
             row_data = tuple(text)
-            print(row_data)
             data.append(row_data)
 
         df = pd.DataFrame(data)
 
         # Appending header names
-        df.columns = ['MaterialType', 'CultivationName', 'SupplierCatalogueNumber', 'ERPnumber', 'ERPInventoryControl',
-                      'LIMSSpec', 'BOM']
+        col = ['MaterialType', 'CultivationName', 'SupplierCatalogueNumber', 'ERPnumber', 'ERPInventoryControl',
+               'LIMSSpec', 'BOM']
+        df.columns = col
 
         # Removing first row
         if bool(re.search('^Assay', df.at[0, 'MaterialType'])):
@@ -42,8 +42,10 @@ class Convert:
             df = df.iloc[1:]
 
         # Removes newspace characters
-        df[['SupplierCatalogueNumber', 'ERPnumber', 'BOM']] = df[['SupplierCatalogueNumber',
-                                                                  'ERPnumber', 'BOM']].replace({r'\n': '_'}, regex=True)
+        # df[['MaterialType', 'SupplierCatalogueNumber', 'ERPnumber', 'ERPInventoryControl', 'LIMSSpec', 'BOM']] = df[
+        #     ['MaterialType', 'SupplierCatalogueNumber', 'ERPnumber', 'ERPInventoryControl', 'LIMSSpec', 'BOM']].replace(
+        #     {r'\n': '_'}, regex=True)
+        df[col] = df[col].replace({r'\n': '_'}, regex=True)
 
         extraction = ExtractBOM()
         df['Assay'] = extraction.renameBOM(doc) + "GMP.BUK"
