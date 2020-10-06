@@ -18,8 +18,8 @@ if fileType == "SOP":
         Convert.sopDocToCSV(file, loc)
 elif fileType.__contains__("BOM"):
     loc = "BOMWordCopies"
-    for file in os.listdir("BOMWordCopies"):
-        extract_BOM.convertDocx(file, loc)
+    # for file in os.listdir("BOMWordCopies"):
+    #     extract_BOM.convertDocx(file, loc)
     for file in os.listdir("BOMWordCopies"):
         Convert.bomDocToCSV(file, loc)
     if fileType.__contains__("FullList"):

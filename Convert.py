@@ -26,18 +26,24 @@ class Convert:
 
             # Construct a tuple for row
             row_data = tuple(text)
+            print(row_data)
             data.append(row_data)
 
         df = pd.DataFrame(data)
 
-        # Removing first row
-        if bool(re.search('^Assay', df.at[0, 0])):
-            df = df.iloc[2:]
-        else:
-            df = df.iloc[1:]
         # Appending header names
         df.columns = ['MaterialType', 'CultivationName', 'SupplierCatalogueNumber', 'ERPnumber', 'ERPInventoryControl',
                       'LIMSSpec', 'BOM']
+
+        # Removing first row
+        if bool(re.search('^Assay', df.at[0, 'MaterialType'])):
+            df = df.iloc[2:]
+        else:
+            df = df.iloc[1:]
+
+        # Removes newspace characters
+        df[['SupplierCatalogueNumber', 'ERPnumber', 'BOM']] = df[['SupplierCatalogueNumber',
+                                                                  'ERPnumber', 'BOM']].replace({r'\n': '_'}, regex=True)
 
         extraction = ExtractBOM()
         df['Assay'] = extraction.renameBOM(doc) + "GMP.BUK"
